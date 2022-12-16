@@ -18,7 +18,7 @@ const CardContainer = () => {
             />
             <Card 
               title={'Aarons Adoptions'} 
-              tech={["NodeJS", "Bootstrap", "ExpressJS", "MongoDB"]} 
+              tech={["Node.js", "Bootstrap", "ExpressJS", "MongoDB"]} 
               links={{ghLink: 'https://github.com/AaronCQuinn/Adoption-Website', liveLink: 'https://www.aaronsadoptions.ca'}}
               desc={`A mock adoption services website where the administrators to the website can easily control the flow of incoming and out going foster animals. My largest project to date, heavily focused on the backend.`}
             />
