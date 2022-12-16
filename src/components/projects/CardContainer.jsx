@@ -14,7 +14,7 @@ const CardContainer = () => {
               title={'Twitter Clone'} 
               tech={["React", "Socket.IO", "Node.js", "MongoDB"]} 
               links={{ghLink: 'https://github.com/AaronCQuinn/twitter-clone', liveLink: ''}}
-              desc={`My own spin on the social platform Twitter. Includes all the functionality you've come to know from Twitter.`}
+              desc={`My own personal spin on the social platform Twitter. Includes all the functionality you've come to know from Twitter such as direct messaging, retweeting, liking tweets. Built with React and Node.`}
             />
             <Card 
               title={'Aarons Adoptions'} 
